@@ -23,9 +23,9 @@ Folgende Platzhalter werden von der Erweiterung bereitgestellt:
   als QR-Code ausgegeben wird - die Darstellung kann mit Hilfe der
   Bild-Attribute angepasst werden
 
-In der [Dokumentation der Erweiterung "Event Communication"]
-(https://github.com/systopia/de.systopia.eventmessages) sind mehr Informationen
-über die Verwendung der Platzhalter und weitere andere Funktionen zu finden.
+In der [Dokumentation der Erweiterung "Event Communication"](https://github.com/systopia/de.systopia.eventmessages) 
+sind mehr Informationen über die Verwendung der Platzhalter und weiterer 
+Funktionen zu finden.
 
 ## Berechtigungen
 
