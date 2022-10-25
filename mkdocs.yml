@@ -1,6 +1,6 @@
 site_name: Event Check-In
 repo_url: https://github.com/systopia/de.systopia.eventcheckin
-edit_uri: https://github.com/systopia/de.systopia.eventcheckin_de
+edit_uri: https://github.com/systopia/de.systopia.eventcheckin_de/edit/master/docs
 site_description: 'Eine Anleitung für die Event-Check-In-Erweiterung.'
 site_author: 'SYSTOPIA'
 theme:
