@@ -31,6 +31,4 @@ können bspw. auch Eintrittskarten mit QR-Codes erstellt und automatisierte
 Abläufe für den Versand per E-Mail eingerichtet werden, die auf der Rolle
 und/oder dem Anmeldestatus der Teilnehmer basieren.
 
-Die Erweiterung
-verwendet [Chillerlans QR-Code-Generator](https://github.com/chillerlan/php-qrcode)
-, um QR-Codes zu erzeugen.
+Die Erweiterung verwendet [Chillerlans QR-Code-Generator](https://github.com/chillerlan/php-qrcode), um QR-Codes zu erzeugen.
